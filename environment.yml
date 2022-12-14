@@ -5,13 +5,12 @@ dependencies:
   - statsmodels
   - netCDF4
   - Cartopy==0.18.0
-  - seawater
-  - holteandtalley
-  - julian
-  - datetime
-  - lmfit
-  - pysolar
   - pip
   - pip:
     - holteandtalley
     - datetime
+    - seawater
+    - julian
+    - datetime
+    - lmfit
+    - pysolar
