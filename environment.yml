@@ -1,0 +1,13 @@
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - statsmodels
+  - netCDF4
+  - Cartopy==0.18.0
+  - seawater
+  - holteandtalley
+  - julian
+  - datetime
+  - lmfit
+  - pysolar
