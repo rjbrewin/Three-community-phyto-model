@@ -5,3 +5,5 @@ This GitHub repository accompanies the manuscript of Cox et al. titled “Observ
 These data were collected and made freely available by the International Argo Program and the national programs that contribute to it (https://argo.ucsd.edu, https://www.ocean-ops.org). The Argo Program is part of the Global Ocean Observing System.
 
 The notebook can be run through a webpage, just click on the launch-binder image.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Three-community-phyto-model/HEAD)
