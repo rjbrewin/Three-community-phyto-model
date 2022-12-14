@@ -11,3 +11,6 @@ dependencies:
   - datetime
   - lmfit
   - pysolar
+  - pip:
+    - holteandtalley
+    - datetime
