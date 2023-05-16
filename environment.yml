@@ -4,7 +4,7 @@ dependencies:
   - pandas
   - statsmodels
   - netCDF4
-  - Cartopy==0.18.0
+  - Cartopy
   - pip
   - pip:
     - holteandtalley
